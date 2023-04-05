@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gameFragment"
+        android:icon="@drawable/baseline_gamepad_24"
+        android:title="Game" />
+    <item
+        android:id="@+id/winnersFragment"
+        android:icon="@drawable/baseline_leaderboard_24"
+        android:title="Leaderboard" />
+</menu>
